@@ -1,0 +1,6 @@
+'''
+This is your Time for a python exercise  modify the code and try to 
+update Temperature, Humidity ,Time, Date and Latitude and Longitude 
+
+
+'''
