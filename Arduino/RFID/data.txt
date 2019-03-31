@@ -1,0 +1,12 @@
+The NUID tag is:
+In hex:  29 B5 1A 2B
+In dec:  41 181 26 43
+
+
+for the BIG card 
+
+A new card has been detected.
+The NUID tag is:
+In hex:  09 DA A3 55
+In dec:  09 218 163 85
+
